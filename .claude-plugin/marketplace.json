@@ -1,0 +1,16 @@
+{
+  "name": "factuurgereed",
+  "owner": { "name": "FactuurGereed" },
+  "metadata": {
+    "description": "De Claude Code-plugin van FactuurGereed."
+  },
+  "plugins": [
+    {
+      "name": "factuurgereed",
+      "source": "./plugins/factuurgereed",
+      "description": "Een paneel met je openstaande facturen, btw, uren en timer naast het gesprek, een regel boven de invoer en snelle vragen voor Claude. Werkt met de FactuurGereed-connector.",
+      "homepage": "https://www.factuurgereed.nl",
+      "category": "productivity"
+    }
+  ]
+}

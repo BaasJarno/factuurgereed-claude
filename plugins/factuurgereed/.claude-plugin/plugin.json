@@ -1,0 +1,10 @@
+{
+  "name": "factuurgereed",
+  "version": "1.0.0",
+  "description": "FactuurGereed in Claude Code: een paneel met je openstaande facturen, btw, uren en timer, een regel boven de invoer en snelle vragen voor Claude.",
+  "author": { "name": "FactuurGereed" },
+  "homepage": "https://www.factuurgereed.nl",
+  "repository": "https://github.com/BaasJarno/factuurgereed-claude",
+  "keywords": ["facturen", "boekhouding", "btw", "urenregistratie", "zzp"],
+  "types": "./types/index.d.ts"
+}
